@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ensormena.github.io/sitemap.html.gz
+Sitemap: https://ensormena.github.io/app/sitemap.html.gz
+Sitemap: https://ensormena.github.io/assets/sitemap.html.gz
+Sitemap: https://ensormena.github.io/css/sitemap.html.gz
+Sitemap: https://ensormena.github.io/includes/sitemap.html.gz
+Sitemap: https://ensormena.github.io/item/sitemap.html.gz
+Sitemap: https://ensormena.github.io/src/sitemap.html.gz
